@@ -6,3 +6,7 @@ git add .
 git status
 git push
 para subirlo al repositorio remoto
+
+# contiene
+Archivos HTML
+

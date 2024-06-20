@@ -1,13 +1,14 @@
 /**se hace la paleta de colores con seudo selector :root {-- XXXX }*/
 /**paleta de coloresgenerales*/
 /* se cambia el color de amarillo a verde 19/06/2024 */
+/* se cambia el color primario por lima 19/06/2024 */
 :root{
 	--blanco:#ffffff ;
-	--primario:#18f009;
+	--primario:#f009d1;
 	--oscuro:#212121;
 	--secundario:#06ccbf;
 	--gris:#757575;
-	--amarillo:#15f746;
+	--amarillo:#f009d1;
 }
 /* estilos globales */
 html{
